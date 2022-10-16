@@ -29,16 +29,16 @@ https://github.com/magmesser/password-generator
 
 The following images are screenshots of the web application's appearance: 
 <br>
-### Generator working correctly
+Generator working correctly
 
 ![Screen record 1 of the Generator working correctly](./gifs_ReadMe/gen_working_correctly.gif)
 
 <br>
-### Generator alert if too little or too many characters are entered 
+Generator alert if too little or too many characters are entered 
 
 ![Screen record 2 of the Generator alert if too little or too many characters are entered](./gifs_ReadMe/gen_too_little_length.gif)
 
 <br>
-### Generator alert if no criteria was selected
+Generator alert if no criteria was selected
 
 ![Screen record 3 of the Generator alert if no criteria was selected](./gifs_ReadMe/gen_no_criteria_selected.gif)
