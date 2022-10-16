@@ -28,6 +28,8 @@ https://github.com/magmesser/password-generator
 ## Screenshot
 
 The following images are screenshots of the web application's appearance: 
+
+
 <br>
 Generator working correctly
 
