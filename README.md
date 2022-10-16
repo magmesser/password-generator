@@ -16,7 +16,7 @@ This projected tested the knowledge of JavaScript.  Although I was provided star
 ## Links
 
 - Click the link below to access the deployed site on GitHub Pages.<br>
-<!-- https://magmesser.github.io/portfolio/ -->
+https://magmesser.github.io/password-generator/
 
 
 - Click the link below to access to application repository on GitHub. <br>
@@ -28,7 +28,17 @@ https://github.com/magmesser/password-generator
 ## Screenshot
 
 The following images are screenshots of the web application's appearance: 
+<br>
+### Generator working correctly
 
-<!-- ![Screenshot 1 of the Header section](./assets/images/reademe/Screenshot1.png)
-![Screenshot 2 of the Portfolio and About sections](./assets/images/reademe/Screenshot2.png)
-![Screenshot 3 of the Resume and Contact sections](./assets/images/reademe/Screenshot3.png) -->
+![Screen record 1 of the Generator working correctly](./gifs_ReadMe/gen_working_correctly.gif)
+
+<br>
+### Generator alert if too little or too many characters are entered 
+
+![Screen record 2 of the Generator alert if too little or too many characters are entered](./gifs_ReadMe/gen_too_little_length.gif)
+
+<br>
+### Generator alert if no criteria was selected
+
+![Screen record 3 of the Generator alert if no criteria was selected](./gifs_ReadMe/gen_no_criteria_selected.gif)
