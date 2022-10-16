@@ -30,6 +30,14 @@ header {
   color: hsl(206, 17%, 28%);
 }
 
+.select-all-text {
+  user-select: all;
+}
+
+textarea::selection {
+  background-color: yellow;
+}
+
 .card {
   background-color: hsl(0, 0%, 100%);
   border-radius: 5px;
@@ -116,6 +124,11 @@ button[disabled] {
   border-radius: 6px;
   resize: none;
   overflow: hidden;
+  user-select: all;
+}
+
+#password:active {
+  user-select: all;
 }
 
 @media (max-width: 690px) {
